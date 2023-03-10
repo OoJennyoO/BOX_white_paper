@@ -1,10 +1,10 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [👋 BOX_white_paper_V3.0 [KR]](README.md)
 
 ## Overview
 
-* [💡 What we do](overview/what-we-do.md)
+* [💡 Background](overview/what-we-do.md)
 * [✨ Our Features](overview/our-features.md)
 
 ## Product Guides
